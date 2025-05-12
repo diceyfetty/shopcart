@@ -38,6 +38,7 @@ import com.example.myshop.data.AuthViewModel
 import com.example.myshop.data.ProductViewModel
 import coil.compose.rememberImagePainter
 
+
 @OptIn(ExperimentalMaterial3Api::class, ExperimentalLayoutApi::class)
 @Composable
 fun HomeScreen(
